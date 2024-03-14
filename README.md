@@ -2,7 +2,7 @@
 <h1 align="center">Hello🙏, I'm Arpit Srivastava</h1>
 <h3 align="center">I'm on an exciting journey as a Computer Science student.</h3>
 - <b>🌱 I’m currently learning:</b><br> DSA and Cloud Computing</br>
-- <b>💬 Ask me about:</b><br>Python, C, Cpp, AWS, and any general software development questions.</br>
+- <b>💬 Ask me about:</b><br>Python, C, Cpp, AWS, and any general questions.</br>
 - <b>⚡ Fun fact:</b> <br>I code.</br>
 
 <div> <a href="https://twitter.com/apvastava" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
