@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello🙏, I'm Arpit Srivastava</h1>
 <h3 align="center">I'm on an exciting journey as a Computer Science student.</h3>
-- 🌱 I’m currently learning **DSA and Cloud Computing**
-- 💬 Ask me about **Python, C, Cpp, AWS, and any general software development questions.**
+- 🌱 I’m currently learning **DSA and Cloud Computing**<p>
+- 💬 Ask me about **Python, C, Cpp, AWS, and any general software development questions.**</p>
 
 - ⚡ Fun fact **I code.**
 
